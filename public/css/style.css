@@ -1,0 +1,25 @@
+#total{
+
+}
+#d1{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    width: 100vw;
+    background-color: rgba(210,105,30,255);
+}
+section{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+div{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 90px;
+    width: 50vw;
+    background-color: rgba(210,105,30,255);
+    margin: 0.5%;
+}
